@@ -1,0 +1,20 @@
+{
+  "name": "purescript-psc-package",
+  "set": "psc-0.12.2",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "argonaut-codecs",
+    "argonaut-core",
+    "argonaut-generic",
+    "console",
+    "effect",
+    "generics-rep",
+    "node-child-process",
+    "node-fs",
+    "node-path",
+    "node-process",
+    "prelude",
+    "psci-support",
+    "unicode"
+  ]
+}
